@@ -1,4 +1,3 @@
 # Arduino_ProjetoTermometroAlarme
 
-Arduino
-Proteus
+Projeto com Arduino e Proteus
